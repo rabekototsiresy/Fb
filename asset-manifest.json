@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rabekototsiresy/Fb/static/css/main.eb94d47d.chunk.css",
-    "main.js": "/rabekototsiresy/Fb/static/js/main.8eb063da.chunk.js",
-    "main.js.map": "/rabekototsiresy/Fb/static/js/main.8eb063da.chunk.js.map",
-    "runtime-main.js": "/rabekototsiresy/Fb/static/js/runtime-main.8dfacffd.js",
-    "runtime-main.js.map": "/rabekototsiresy/Fb/static/js/runtime-main.8dfacffd.js.map",
-    "static/js/2.129e4171.chunk.js": "/rabekototsiresy/Fb/static/js/2.129e4171.chunk.js",
-    "static/js/2.129e4171.chunk.js.map": "/rabekototsiresy/Fb/static/js/2.129e4171.chunk.js.map",
-    "index.html": "/rabekototsiresy/Fb/index.html",
-    "precache-manifest.b16bebc39ac1e79afdc53755ee53fb92.js": "/rabekototsiresy/Fb/precache-manifest.b16bebc39ac1e79afdc53755ee53fb92.js",
-    "service-worker.js": "/rabekototsiresy/Fb/service-worker.js",
-    "static/css/main.eb94d47d.chunk.css.map": "/rabekototsiresy/Fb/static/css/main.eb94d47d.chunk.css.map",
-    "static/js/2.129e4171.chunk.js.LICENSE.txt": "/rabekototsiresy/Fb/static/js/2.129e4171.chunk.js.LICENSE.txt"
+    "main.css": "/Fb/static/css/main.eb94d47d.chunk.css",
+    "main.js": "/Fb/static/js/main.575be517.chunk.js",
+    "main.js.map": "/Fb/static/js/main.575be517.chunk.js.map",
+    "runtime-main.js": "/Fb/static/js/runtime-main.006b0364.js",
+    "runtime-main.js.map": "/Fb/static/js/runtime-main.006b0364.js.map",
+    "static/js/2.129e4171.chunk.js": "/Fb/static/js/2.129e4171.chunk.js",
+    "static/js/2.129e4171.chunk.js.map": "/Fb/static/js/2.129e4171.chunk.js.map",
+    "index.html": "/Fb/index.html",
+    "precache-manifest.94011b9b9a1aca5f647f7bdceb4ecd59.js": "/Fb/precache-manifest.94011b9b9a1aca5f647f7bdceb4ecd59.js",
+    "service-worker.js": "/Fb/service-worker.js",
+    "static/css/main.eb94d47d.chunk.css.map": "/Fb/static/css/main.eb94d47d.chunk.css.map",
+    "static/js/2.129e4171.chunk.js.LICENSE.txt": "/Fb/static/js/2.129e4171.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dfacffd.js",
+    "static/js/runtime-main.006b0364.js",
     "static/js/2.129e4171.chunk.js",
     "static/css/main.eb94d47d.chunk.css",
-    "static/js/main.8eb063da.chunk.js"
+    "static/js/main.575be517.chunk.js"
   ]
 }
