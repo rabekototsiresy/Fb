@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbed31c098ba6967c2516cda3599ecd7",
+    "revision": "37e2188439b0fee9ded7c22918a98b3c",
     "url": "/rabekototsiresy/Fb/index.html"
   },
   {
