@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rabekototsiresy/Fb/static/css/main.eb94d47d.chunk.css",
+    "main.js": "/rabekototsiresy/Fb/static/js/main.8eb063da.chunk.js",
+    "main.js.map": "/rabekototsiresy/Fb/static/js/main.8eb063da.chunk.js.map",
+    "runtime-main.js": "/rabekototsiresy/Fb/static/js/runtime-main.8dfacffd.js",
+    "runtime-main.js.map": "/rabekototsiresy/Fb/static/js/runtime-main.8dfacffd.js.map",
+    "static/js/2.129e4171.chunk.js": "/rabekototsiresy/Fb/static/js/2.129e4171.chunk.js",
+    "static/js/2.129e4171.chunk.js.map": "/rabekototsiresy/Fb/static/js/2.129e4171.chunk.js.map",
+    "index.html": "/rabekototsiresy/Fb/index.html",
+    "precache-manifest.06dd8617f30ef76e2fb37cc98bc14352.js": "/rabekototsiresy/Fb/precache-manifest.06dd8617f30ef76e2fb37cc98bc14352.js",
+    "service-worker.js": "/rabekototsiresy/Fb/service-worker.js",
+    "static/css/main.eb94d47d.chunk.css.map": "/rabekototsiresy/Fb/static/css/main.eb94d47d.chunk.css.map",
+    "static/js/2.129e4171.chunk.js.LICENSE.txt": "/rabekototsiresy/Fb/static/js/2.129e4171.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dfacffd.js",
+    "static/js/2.129e4171.chunk.js",
+    "static/css/main.eb94d47d.chunk.css",
+    "static/js/main.8eb063da.chunk.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,QAAS,CACT,SAAU,CACV,iBACF,CAEA,qCACE,GACE,iBAAkB,CAClB,OACF,CACF","file":"main.eb94d47d.chunk.css","sourcesContent":["html ,body{\r\n  margin: 0;\r\n  padding: 0;\r\n  overflow-x: hidden;\r\n}\r\n\r\n@media screen and (max-width: 1032px) {\r\n  #b {\r\n    position: absolute;\r\n    top: 7px;\r\n  }\r\n}"]}
